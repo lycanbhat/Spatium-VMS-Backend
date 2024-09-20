@@ -1,0 +1,68 @@
+[
+    {
+        "model": "authentication.customrole",
+        "pk": 1,
+        "fields": {
+            "name": "Zone Manager",
+            "description": "Zone Manager",
+            "priority": 1,
+            "created_at": "2022-01-01T00:00:00Z",
+            "modified_at": "2022-01-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "authentication.customrole",
+        "pk": 2,
+        "fields": {
+            "name": "Facility Manager",
+            "description": "Facility Manager",
+            "priority": 2,
+            "created_at": "2022-01-02T00:00:00Z",
+            "modified_at": "2022-01-02T00:00:00Z"
+        }
+    },
+    {
+        "model": "authentication.customrole",
+        "pk": 3,
+        "fields": {
+            "name": "Front Desk",
+            "description": "Front Desk",
+            "priority": 3,
+            "created_at": "2022-01-02T00:00:00Z",
+            "modified_at": "2022-01-02T00:00:00Z"
+        }
+    },
+    {
+        "model": "authentication.customrole",
+        "pk": 4,
+        "fields": {
+            "name": "SPOC",
+            "description": "SPOC",
+            "priority": 4,
+            "created_at": "2022-01-02T00:00:00Z",
+            "modified_at": "2022-01-02T00:00:00Z"
+        }
+    },
+    {
+        "model": "authentication.customrole",
+        "pk": 5,
+        "fields": {
+            "name": "Employee",
+            "description": "Employee",
+            "priority": 5,
+            "created_at": "2022-01-02T00:00:00Z",
+            "modified_at": "2022-01-02T00:00:00Z"
+        }
+    },
+    {
+        "model": "authentication.customrole",
+        "pk": 6,
+        "fields": {
+            "name": "Visitors Management System",
+            "description": "Visitors Management System",
+            "priority": 6,
+            "created_at": "2022-01-02T00:00:00Z",
+            "modified_at": "2022-01-02T00:00:00Z"
+        }
+    }
+]
